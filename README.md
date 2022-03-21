@@ -10,6 +10,8 @@
 
 ls : 파일 확인
 
+git clone (주소복사)
+
 git config --global user.name "유저 이름" (git config --global user.name "inkink10")
 
 git config --global user.email "가입할 때 사용한 메일 주소"
